@@ -41,3 +41,6 @@ Finally, the `-Force` parameter.
 You can look up the code and decide to use your own color scheme. Function `getColor` is where to set the color. As for my own, I use gray to these hidden folders, dark gray  for hidden files, dark green for normal folders and dark blue for normal files.
 
 I wish you enjoy it:)
+
+## Miscellaneous
+Have a look on my [project](https://github.com/jqly/powershell-theme) about colorized theme and customized prompt for PowerShell;)
